@@ -3,4 +3,5 @@ all:
     host1:
       local: localhost
       macaddress: 6C:F0:49:E0:9F:8F
+      ansible_connection: local
     
